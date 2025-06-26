@@ -1,0 +1,6 @@
+[submodule "third_party/gello_software"]
+	path = third_party/gello_software
+	url = https://github.com/xdofai/gello_software.git
+[submodule "third_party/DynamixelSDK"]
+	path = third_party/DynamixelSDK
+	url = https://github.com/ROBOTIS-GIT/DynamixelSDK.git
